@@ -1,2 +1,2 @@
-# wpu_resolusi
-Repository untuk menyimpan rencana WPU ke depannya
+# CD_resolusi
+Repository untuk menyimpan rencana CD ke depannya
